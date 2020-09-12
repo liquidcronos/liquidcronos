@@ -1,6 +1,6 @@
 ### Hi there 👋, im Jan
 
-I am a researcher at the university of heidelberg currentl working as the project lead and architect of the [TriPed Robot](https://github.com/TriPed-Robot).
+I am a researcher at the university of heidelberg currently working as the project lead and architect of the [TriPed Robot](https://github.com/TriPed-Robot).
 
 My interests include Robotics and other Autonomous System, particularly colaboration and coordination of Humans and Robots.
 <!--

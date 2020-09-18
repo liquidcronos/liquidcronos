@@ -1,8 +1,8 @@
 ### Hi there 👋, im Jan
 
-I am a researcher at the university of heidelberg currently working as the project lead and architect of the [TriPed Robot](https://github.com/TriPed-Robot).
+I am a researcher at the university of Heidelberg currently working as the project lead and architect of the [TriPed Robot](https://github.com/TriPed-Robot).
 
-My interests include Robotics and other Autonomous System, particularly colaboration and coordination of Humans and Robots.
+My interests include Robotics and other Autonomous System, particularly collaboration and coordination of Humans and Robots.
 <!--
 **liquidcronos/liquidcronos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

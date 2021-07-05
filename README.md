@@ -4,15 +4,15 @@
 
 #### Hi there 👋, im Jan
 
-I am a researcher at the university of Heidelberg currently working as the project lead and architect of the [TriPed Robot](https://triped-robot.github.io/).
+I am a researcher and educator at the university of Heidelberg  interested in robotics and other autonomous system, particularly collaboration and coordination of Humans and Robots.
+ I have a passion for learning and sharing my knowledge with others.  You can see a full list of what I am up to on my [website](https://liquidcronos.github.io/portfolio/).
 
-My interests include Robotics and other Autonomous System, particularly collaboration and coordination of Humans and Robots.
+If you are interested in working with me, feel free to contact me. 
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liquidcronos&theme=default)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liquidcronos&theme=default) -->
 <!--- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liquidcronos&theme=default) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liquidcronos&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liquidcronos&theme=default)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liquidcronos&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liquidcronos&theme=default) -->
 
 
 ---

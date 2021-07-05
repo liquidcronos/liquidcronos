@@ -1,5 +1,5 @@
 
-![banner](https://user-images.githubusercontent.com/22688144/124489185-03f0e180-ddb1-11eb-9679-98841675574e.png)
+![banner](https://raw.githubusercontent.com/liquidcronos/liquidcronos/master/github_banner.png)
 
 
 #### Hi there 👋, im Jan

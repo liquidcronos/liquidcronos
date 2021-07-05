@@ -5,4 +5,5 @@ I am a researcher at the university of Heidelberg currently working as the proje
 My interests include Robotics and other Autonomous System, particularly collaboration and coordination of Humans and Robots.
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liquidcronos&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liquidcronos&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liquidcronos&theme=default)

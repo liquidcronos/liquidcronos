@@ -24,6 +24,8 @@ My interests include Robotics and other Autonomous System, particularly collabor
  
 ### TriPed Robot
 
-I love developing robotics and control systems applications.
-My current project is the [TriPed Robot](https://triped-robot.github.io/).
-The Final Aim of this robot is to study cooperation between machines and humans or machines and machines.
+I love developing robotics and control systems applications. Although my main experties is higher level planning and control, i also enjoy the challenges of embedded development.
+My current project combines these two areas.
+The  [TriPed Robot](https://triped-robot.github.io/) is a plattform to study decentralized cooperative control algorithms.
+
+

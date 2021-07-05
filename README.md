@@ -7,7 +7,7 @@
 I am a researcher and educator at the university of Heidelberg  interested in robotics and other autonomous system, particularly collaboration and coordination of Humans and Robots.
  I have a passion for learning and sharing my knowledge with others.  You can see a full list of what I am up to on my [website](https://liquidcronos.github.io/portfolio/).
 
-If you are interested in working with me, feel free to <a href="mailto:jan-baumgaertner@web.de">  contact me</a> !
+If you are interested in working with me, feel free to <a href="mailto:jan-baumgaertner@web.de">  contact me</a>!
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liquidcronos&theme=default) -->
 <!--- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liquidcronos&theme=default) -->

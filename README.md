@@ -1,6 +1,8 @@
 
 ![banner](https://raw.githubusercontent.com/liquidcronos/liquidcronos/master/github_banner.png)
-
+ [<img alt="YouTube" src="https://img.shields.io/badge/baumis_robots-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCnbhNyP3RjmAfneHtcz_h3g) 
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jan-baumgärtner/) 
+[<img alt="Instagram" src="https://img.shields.io/badge/baumis_robots-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/baumis_robots/)
 
 #### Hi there 👋, im Jan
 
@@ -14,9 +16,8 @@ If you are interested in working with me, feel free to <a href="mailto:jan.baumg
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liquidcronos&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liquidcronos&theme=default) -->
 
-[<img alt="Instagram" src="https://img.shields.io/badge/baumis_robots-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/baumis_robots/)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jan-baumgärtner/) 
- [<img alt="YouTube" src="https://img.shields.io/badge/baumis_robots-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCnbhNyP3RjmAfneHtcz_h3g) 
+
+
 
 
 

@@ -2,9 +2,9 @@
 ![banner](https://raw.githubusercontent.com/liquidcronos/liquidcronos/master/github_banner.png)
 <p align="center">
  [<img alt="YouTube" src="https://img.shields.io/badge/baumis_robots-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCnbhNyP3RjmAfneHtcz_h3g) 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jan-baumgärtner/) 
-[<img alt="Instagram" src="https://img.shields.io/badge/baumis_robots-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/baumis_robots/)
-[<img alt="Researchgate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>](https://www.researchgate.net/profile/Jan-Baumgaertner)
+ [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jan-baumgärtner/) 
+ [<img alt="Instagram" src="https://img.shields.io/badge/baumis_robots-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/baumis_robots/)
+ [<img alt="Researchgate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>](https://www.researchgate.net/profile/Jan-Baumgaertner)
  </p>
 
 #### Hi there 👋, im Jan

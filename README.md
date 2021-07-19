@@ -1,5 +1,5 @@
 
-![banner](https://raw.githubusercontent.com/liquidcronos/liquidcronos/master/github_banner.png)
+![banner](https://raw.githubusercontent.com/liquidcronos/liquidcronos/master/blackboard_github_banner.png)
 <p align="center">
  <a href="https://www.youtube.com/channel/UCnbhNyP3RjmAfneHtcz_h3g"target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/baumis_robots-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/jan-baumgärtner/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>

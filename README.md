@@ -19,22 +19,3 @@ If you would like to collaborate with me, please feel free to <a href="mailto:co
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liquidcronos&theme=default) -->
 
 
-
-
-
-
-
----
-
-
-<p>
-  <img width="250" align='left' src="https://user-images.githubusercontent.com/22688144/124489566-6d70f000-ddb1-11eb-9f57-6a2d9e374fcc.png?raw=true">
-</p>
- 
-### TriPed Robot
-
-I love developing robotics and control systems applications. Although my main experties is higher level planning and control, i also enjoy the challenges of embedded development.
-My current project combines these two areas.
-The  [TriPed Robot](https://triped-robot.github.io/) is a plattform to study decentralized cooperative control algorithms.
-
-
